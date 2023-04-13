@@ -13,6 +13,26 @@
 		FF1F448D29CDDC6A0002A5D0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1F448B29CDDC6A0002A5D0 /* Main.storyboard */; };
 		FF1F448F29CDDC700002A5D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FF1F448E29CDDC700002A5D0 /* Assets.xcassets */; };
 		FF1F449229CDDC700002A5D0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF1F449029CDDC700002A5D0 /* LaunchScreen.storyboard */; };
+		FF1F449A29CE2BE80002A5D0 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1F449929CE2BE80002A5D0 /* LoginViewController.swift */; };
+		FF1F449C29CE2FD10002A5D0 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF1F449B29CE2FD10002A5D0 /* CreateAccountViewController.swift */; };
+		FF1F449E29CE33430002A5D0 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = FF1F449D29CE33430002A5D0 /* GoogleService-Info.plist */; };
+		FF52CBFA29CF2D6C00494AEA /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = FF52CBF929CF2D6C00494AEA /* FirebaseAuth */; };
+		FF52CBFC29CF2D6C00494AEA /* FirebaseDatabase in Frameworks */ = {isa = PBXBuildFile; productRef = FF52CBFB29CF2D6C00494AEA /* FirebaseDatabase */; };
+		FF5C5C5729E00447001D6D5A /* TabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF5C5C5629E00447001D6D5A /* TabBarViewController.swift */; };
+		FF9152A329DEAF6000226738 /* Details.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FF9152A229DEAF6000226738 /* Details.storyboard */; };
+		FF9152A529DEB44500226738 /* DetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FF9152A429DEB44500226738 /* DetailsViewController.swift */; };
+		FF940D2029D1C94B000F8F71 /* drumsound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FF940D1F29D1C94B000F8F71 /* drumsound.mp3 */; };
+		FFB2DD5B29D2197C003D3682 /* BmiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFB2DD5A29D2197C003D3682 /* BmiViewController.swift */; };
+		FFC9B38B29D0C3F500D3F9EC /* HeartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC9B38A29D0C3F500D3F9EC /* HeartViewController.swift */; };
+		FFC9B38D29D0C4FD00D3F9EC /* EyeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC9B38C29D0C4FD00D3F9EC /* EyeViewController.swift */; };
+		FFC9B38F29D0C75D00D3F9EC /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC9B38E29D0C75D00D3F9EC /* User.swift */; };
+		FFC9B39129D0D1EC00D3F9EC /* ResultsAndInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFC9B39029D0D1EC00D3F9EC /* ResultsAndInfoViewController.swift */; };
+		FFCC925F29D15D8300CF18DC /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFCC925E29D15D8300CF18DC /* MenuViewController.swift */; };
+		FFCC926129D1A46800CF18DC /* UserManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFCC926029D1A46800CF18DC /* UserManager.swift */; };
+		FFCC926329D1AF8200CF18DC /* HearingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFCC926229D1AF8200CF18DC /* HearingViewController.swift */; };
+		FFCC926D29D1BEFE00CF18DC /* saxofonSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FFCC926929D1BEFE00CF18DC /* saxofonSound.mp3 */; };
+		FFCC926E29D1BEFE00CF18DC /* guitarSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FFCC926A29D1BEFE00CF18DC /* guitarSound.mp3 */; };
+		FFCC926F29D1BEFE00CF18DC /* violinSound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FFCC926B29D1BEFE00CF18DC /* violinSound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +44,24 @@
 		FF1F448E29CDDC700002A5D0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FF1F449129CDDC700002A5D0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FF1F449329CDDC700002A5D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FF1F449929CE2BE80002A5D0 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
+		FF1F449B29CE2FD10002A5D0 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		FF1F449D29CE33430002A5D0 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		FF5C5C5629E00447001D6D5A /* TabBarViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarViewController.swift; sourceTree = "<group>"; };
+		FF9152A229DEAF6000226738 /* Details.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Details.storyboard; sourceTree = "<group>"; };
+		FF9152A429DEB44500226738 /* DetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsViewController.swift; sourceTree = "<group>"; };
+		FF940D1F29D1C94B000F8F71 /* drumsound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = drumsound.mp3; sourceTree = "<group>"; };
+		FFB2DD5A29D2197C003D3682 /* BmiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BmiViewController.swift; sourceTree = "<group>"; };
+		FFC9B38A29D0C3F500D3F9EC /* HeartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeartViewController.swift; sourceTree = "<group>"; };
+		FFC9B38C29D0C4FD00D3F9EC /* EyeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EyeViewController.swift; sourceTree = "<group>"; };
+		FFC9B38E29D0C75D00D3F9EC /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		FFC9B39029D0D1EC00D3F9EC /* ResultsAndInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultsAndInfoViewController.swift; sourceTree = "<group>"; };
+		FFCC925E29D15D8300CF18DC /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		FFCC926029D1A46800CF18DC /* UserManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserManager.swift; sourceTree = "<group>"; };
+		FFCC926229D1AF8200CF18DC /* HearingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HearingViewController.swift; sourceTree = "<group>"; };
+		FFCC926929D1BEFE00CF18DC /* saxofonSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = saxofonSound.mp3; sourceTree = "<group>"; };
+		FFCC926A29D1BEFE00CF18DC /* guitarSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = guitarSound.mp3; sourceTree = "<group>"; };
+		FFCC926B29D1BEFE00CF18DC /* violinSound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = violinSound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +69,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF52CBFC29CF2D6C00494AEA /* FirebaseDatabase in Frameworks */,
+				FF52CBFA29CF2D6C00494AEA /* FirebaseAuth in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,13 +96,31 @@
 		FF1F448429CDDC6A0002A5D0 /* HealthCheckup */ = {
 			isa = PBXGroup;
 			children = (
+				FF5C5C5629E00447001D6D5A /* TabBarViewController.swift */,
+				FFC9B38E29D0C75D00D3F9EC /* User.swift */,
+				FFCC926029D1A46800CF18DC /* UserManager.swift */,
 				FF1F448529CDDC6A0002A5D0 /* AppDelegate.swift */,
 				FF1F448729CDDC6A0002A5D0 /* SceneDelegate.swift */,
 				FF1F448929CDDC6A0002A5D0 /* ViewController.swift */,
+				FF1F449929CE2BE80002A5D0 /* LoginViewController.swift */,
+				FF1F449B29CE2FD10002A5D0 /* CreateAccountViewController.swift */,
+				FFC9B38A29D0C3F500D3F9EC /* HeartViewController.swift */,
+				FFCC926229D1AF8200CF18DC /* HearingViewController.swift */,
+				FFC9B38C29D0C4FD00D3F9EC /* EyeViewController.swift */,
+				FFB2DD5A29D2197C003D3682 /* BmiViewController.swift */,
+				FFC9B39029D0D1EC00D3F9EC /* ResultsAndInfoViewController.swift */,
+				FFCC925E29D15D8300CF18DC /* MenuViewController.swift */,
+				FF9152A429DEB44500226738 /* DetailsViewController.swift */,
+				FF9152A229DEAF6000226738 /* Details.storyboard */,
 				FF1F448B29CDDC6A0002A5D0 /* Main.storyboard */,
 				FF1F448E29CDDC700002A5D0 /* Assets.xcassets */,
+				FF940D1F29D1C94B000F8F71 /* drumsound.mp3 */,
+				FFCC926A29D1BEFE00CF18DC /* guitarSound.mp3 */,
+				FFCC926929D1BEFE00CF18DC /* saxofonSound.mp3 */,
+				FFCC926B29D1BEFE00CF18DC /* violinSound.mp3 */,
 				FF1F449029CDDC700002A5D0 /* LaunchScreen.storyboard */,
 				FF1F449329CDDC700002A5D0 /* Info.plist */,
+				FF1F449D29CE33430002A5D0 /* GoogleService-Info.plist */,
 			);
 			path = HealthCheckup;
 			sourceTree = "<group>";
@@ -83,6 +141,10 @@
 			dependencies = (
 			);
 			name = HealthCheckup;
+			packageProductDependencies = (
+				FF52CBF929CF2D6C00494AEA /* FirebaseAuth */,
+				FF52CBFB29CF2D6C00494AEA /* FirebaseDatabase */,
+			);
 			productName = HealthCheckup;
 			productReference = FF1F448229CDDC6A0002A5D0 /* HealthCheckup.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +173,9 @@
 				Base,
 			);
 			mainGroup = FF1F447929CDDC6A0002A5D0;
+			packageReferences = (
+				FF52CBF829CF2D6C00494AEA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = FF1F448329CDDC6A0002A5D0 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -126,8 +191,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				FF1F449229CDDC700002A5D0 /* LaunchScreen.storyboard in Resources */,
+				FF1F449E29CE33430002A5D0 /* GoogleService-Info.plist in Resources */,
+				FFCC926D29D1BEFE00CF18DC /* saxofonSound.mp3 in Resources */,
+				FF9152A329DEAF6000226738 /* Details.storyboard in Resources */,
+				FFCC926E29D1BEFE00CF18DC /* guitarSound.mp3 in Resources */,
+				FF940D2029D1C94B000F8F71 /* drumsound.mp3 in Resources */,
 				FF1F448F29CDDC700002A5D0 /* Assets.xcassets in Resources */,
 				FF1F448D29CDDC6A0002A5D0 /* Main.storyboard in Resources */,
+				FFCC926F29D1BEFE00CF18DC /* violinSound.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,9 +209,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FF1F449C29CE2FD10002A5D0 /* CreateAccountViewController.swift in Sources */,
+				FFCC925F29D15D8300CF18DC /* MenuViewController.swift in Sources */,
+				FFC9B39129D0D1EC00D3F9EC /* ResultsAndInfoViewController.swift in Sources */,
+				FF1F449A29CE2BE80002A5D0 /* LoginViewController.swift in Sources */,
 				FF1F448A29CDDC6A0002A5D0 /* ViewController.swift in Sources */,
+				FFC9B38D29D0C4FD00D3F9EC /* EyeViewController.swift in Sources */,
+				FFC9B38F29D0C75D00D3F9EC /* User.swift in Sources */,
+				FFC9B38B29D0C3F500D3F9EC /* HeartViewController.swift in Sources */,
 				FF1F448629CDDC6A0002A5D0 /* AppDelegate.swift in Sources */,
+				FFB2DD5B29D2197C003D3682 /* BmiViewController.swift in Sources */,
+				FFCC926129D1A46800CF18DC /* UserManager.swift in Sources */,
+				FF9152A529DEB44500226738 /* DetailsViewController.swift in Sources */,
 				FF1F448829CDDC6A0002A5D0 /* SceneDelegate.swift in Sources */,
+				FF5C5C5729E00447001D6D5A /* TabBarViewController.swift in Sources */,
+				FFCC926329D1AF8200CF18DC /* HearingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -360,6 +443,30 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		FF52CBF829CF2D6C00494AEA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = exactVersion;
+				version = 8.9.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		FF52CBF929CF2D6C00494AEA /* FirebaseAuth */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FF52CBF829CF2D6C00494AEA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseAuth;
+		};
+		FF52CBFB29CF2D6C00494AEA /* FirebaseDatabase */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = FF52CBF829CF2D6C00494AEA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseDatabase;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = FF1F447A29CDDC6A0002A5D0 /* Project object */;
 }
