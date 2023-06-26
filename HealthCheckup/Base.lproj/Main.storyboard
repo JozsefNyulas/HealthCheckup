@@ -175,7 +175,7 @@
                                             <constraint firstAttribute="height" constant="40" id="aHc-GM-6Pn"/>
                                         </constraints>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
-                                        <textInputTraits key="textInputTraits" textContentType="password"/>
+                                        <textInputTraits key="textInputTraits" secureTextEntry="YES" textContentType="password"/>
                                     </textField>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="QqX-Xo-abu" userLabel="createAccountBtn">
                                         <rect key="frame" x="13" y="195" width="174.5" height="40"/>
@@ -1105,7 +1105,7 @@
         </scene>
     </scenes>
     <inferredMetricsTieBreakers>
-        <segue reference="Crn-Gp-32h"/>
+        <segue reference="YAd-tn-KKA"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="Home" width="50" height="50"/>
